@@ -92,7 +92,7 @@
 
 ### 입력 프롬프트
 
-sleepy caniday mascot lying in bed, morning sunlight, low energy mood, cozy room, korean illustration style, pastel color palette
+sleepy caniday mascot lying in bed, morning sunlight, low energy mood, cozy room
 
 ### 출력 결과 요약
 
@@ -147,7 +147,7 @@ Pipit Voice
 
 ### 입력 프롬프트
 
-sad caniday mascot looking at unfinished to do list, disappointed expression, korean webtoon style
+sad caniday mascot looking at unfinished to do list, disappointed expression
 
 ### 출력 결과 요약
 
@@ -194,7 +194,7 @@ Pipit Voice
 
 ### 입력 프롬프트
 
-cute caniday mascot drinking water, small achievement, warm atmosphere, healing illustration
+cute caniday mascot drinking water, small achievement, warm atmosphere
 
 ### 출력 결과 요약
 
@@ -234,7 +234,7 @@ scene03_voice.wav
 
 ### 내레이션
 
-"오늘은 이것만으로도 충분해."
+"작은 것부터 하나씩 하니까 할 수 있네."
 
 ### 사용 도구
 
@@ -295,7 +295,7 @@ Pipit Voice
 
 ### 입력 프롬프트
 
-caniday mascot doing small healthy daily habits, healing atmosphere, pastel illustration
+caniday mascot doing hi gesture, healing atmosphere, pastel illustration
 
 ### 출력 결과 요약
 
